@@ -1,6 +1,6 @@
 # Package Tracking
 
-This is a Rails web scraper
+This is a Ruby web scraper app.
 
 To scrape the example website included in the code:
 ```
